@@ -1,0 +1,14 @@
+# Backups and editor files
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build output (the release ZIP is attached to GitHub releases, not committed)
+dist/
+
+# Local game data, never commit saved variables
+SavedVariables/
+WTF/

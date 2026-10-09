@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: AddOnPeaks
+## Notes: Shows the addons with the highest single-frame CPU spikes (/aop). Helps find what slows down world entry.
+## Author: Daniel Dočekal
+## Version: 1.0.0
+## X-License: MIT
+## SavedVariables: AddOnPeaksDB
+AddOnPeaks.lua
