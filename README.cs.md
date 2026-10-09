@@ -6,6 +6,8 @@ Malý addon pro World of Warcraft (retail), který ukazuje, které addony způso
 
 Addon čte metriky profileru pro každý addon z `C_AddOnProfiler` a zobrazí top 15 addonů v malém okně.
 
+![Okno AddOnPeaks ve hře](docs/screenshot.webp)
+
 ## Použití
 
 | Příkaz | Efekt |

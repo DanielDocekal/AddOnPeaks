@@ -6,6 +6,8 @@ A small World of Warcraft (retail) addon that shows which addons cause the bigge
 
 It reads the per-addon profiler metrics from `C_AddOnProfiler` and shows the top 15 addons in a small window.
 
+![AddOnPeaks window in game](docs/screenshot.webp)
+
 ## Usage
 
 | Command | Effect |
