@@ -38,5 +38,7 @@ Say clearly when a change was not tested in the game.
 ## Git
 
 - Default branch: `main`.
+- **Before starting work, run `git pull`.** Changes may have been pushed from another machine.
+- **After finishing, commit and `git push`.** Changes that exist only on one machine are lost to the other.
 - Commit messages: short imperative English, for example `Fix window layout`.
 - The author is set in the local git config of this repository.
